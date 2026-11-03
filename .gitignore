@@ -1,0 +1,44 @@
+# Dependencies and build output
+node_modules/
+dist/
+build/
+*.zip
+
+# Python virtual environments and caches
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables and local settings
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Model weights and generated datasets/artifacts
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+data/
+datasets/
+artifacts/
+
+# Keep the ML preparation guidance even though local data folders are ignored.
+!backend/ml/data/
+backend/ml/data/*
+!backend/ml/data/README.md
+!backend/ml/datasets/
+backend/ml/datasets/*
+!backend/ml/datasets/.gitkeep
+
+# Tool and OS files
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": "2026-11-02T02:43:09.272870+00:00",
+  "source": "Smithsonian Open Access API",
+  "api_endpoint": "https://api.si.edu/openaccess/api/v1.0/search",
+  "metadata_only": true,
+  "image_bytes_downloaded": false,
+  "license_approval_granted": false,
+  "all_review_statuses": "pending_manual_review",
+  "requested_max_per_category": 5,
+  "api_request_count": 2,
+  "deduplication": {
+    "key": "stable Smithsonian item id",
+    "unique_records_with_id": 10,
+    "records_without_id_preserved_in_review": 0,
+    "duplicate_ids_collapsed": 0
+  },
+  "categories": {
+    "Dog": {
+      "search_records": 5,
+      "unique_item_ids": 5,
+      "eligible_cc0": 0,
+      "uncertain_rights": 5,
+      "records_without_item_id": 0,
+      "shortfall_from_limit": 0
+    },
+    "Cat": {
+      "search_records": 5,
+      "unique_item_ids": 5,
+      "eligible_cc0": 0,
+      "uncertain_rights": 5,
+      "records_without_item_id": 0,
+      "shortfall_from_limit": 0
+    }
+  },
+  "total_unique_cc0_candidates": 0,
+  "total_records_with_non_cc0_or_unknown_rights": 10,
+  "records_without_item_id": 0,
+  "missing_metadata_counts": {
+    "image_url": 10,
+    "rights_statement": 10,
+    "usage_terms": 10,
+    "creator": 5
+  },
+  "queries": [
+    {
+      "category": "Dog",
+      "query": "dog photograph",
+      "start": 0,
+      "rows": 5
+    },
+    {
+      "category": "Cat",
+      "query": "cat photograph",
+      "start": 0,
+      "rows": 5
+    }
+  ],
+  "notes": [
+    "CC0 is a candidate filter only, not an approval.",
+    "Category relevance requires human review.",
+    "No image URL was fetched."
+  ],
+  "eligible_cc0_view_count": 0,
+  "review_csv_count": 10
+}

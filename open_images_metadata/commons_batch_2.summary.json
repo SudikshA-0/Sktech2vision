@@ -1,0 +1,697 @@
+{
+  "api_requests_including_retries": 16,
+  "creator_cap_fallbacks_per_category": {
+    "Bird": 21,
+    "Cat": 0,
+    "Dog": 0
+  },
+  "creator_diversity_count_per_category": {
+    "Bird": 4,
+    "Cat": 4,
+    "Dog": 7
+  },
+  "dimensions_and_file_sizes": [
+    {
+      "file_size_bytes": "281422",
+      "height": "565",
+      "selected_category": "Dog",
+      "source_identifier": "commons-10302518",
+      "width": "769"
+    },
+    {
+      "file_size_bytes": "4066348",
+      "height": "4428",
+      "selected_category": "Dog",
+      "source_identifier": "commons-30849482",
+      "width": "3543"
+    },
+    {
+      "file_size_bytes": "1475564",
+      "height": "5077",
+      "selected_category": "Dog",
+      "source_identifier": "commons-156367243",
+      "width": "3897"
+    },
+    {
+      "file_size_bytes": "133367",
+      "height": "852",
+      "selected_category": "Dog",
+      "source_identifier": "commons-159235228",
+      "width": "1139"
+    },
+    {
+      "file_size_bytes": "63245",
+      "height": "443",
+      "selected_category": "Dog",
+      "source_identifier": "commons-117158402",
+      "width": "576"
+    },
+    {
+      "file_size_bytes": "86253",
+      "height": "632",
+      "selected_category": "Dog",
+      "source_identifier": "commons-161580036",
+      "width": "794"
+    },
+    {
+      "file_size_bytes": "678364",
+      "height": "2189",
+      "selected_category": "Dog",
+      "source_identifier": "commons-117353486",
+      "width": "2786"
+    },
+    {
+      "file_size_bytes": "52724",
+      "height": "452",
+      "selected_category": "Dog",
+      "source_identifier": "commons-117514623",
+      "width": "604"
+    },
+    {
+      "file_size_bytes": "2405387",
+      "height": "2160",
+      "selected_category": "Dog",
+      "source_identifier": "commons-51548624",
+      "width": "3150"
+    },
+    {
+      "file_size_bytes": "125835",
+      "height": "741",
+      "selected_category": "Dog",
+      "source_identifier": "commons-43312784",
+      "width": "1086"
+    },
+    {
+      "file_size_bytes": "313273",
+      "height": "1385",
+      "selected_category": "Dog",
+      "source_identifier": "commons-117402099",
+      "width": "1786"
+    },
+    {
+      "file_size_bytes": "59819",
+      "height": "486",
+      "selected_category": "Dog",
+      "source_identifier": "commons-117508204",
+      "width": "710"
+    },
+    {
+      "file_size_bytes": "24307",
+      "height": "348",
+      "selected_category": "Dog",
+      "source_identifier": "commons-117247382",
+      "width": "632"
+    },
+    {
+      "file_size_bytes": "22586",
+      "height": "354",
+      "selected_category": "Dog",
+      "source_identifier": "commons-160140109",
+      "width": "632"
+    },
+    {
+      "file_size_bytes": "89478",
+      "height": "637",
+      "selected_category": "Dog",
+      "source_identifier": "commons-2960034",
+      "width": "623"
+    },
+    {
+      "file_size_bytes": "2051070",
+      "height": "5995",
+      "selected_category": "Dog",
+      "source_identifier": "commons-156393616",
+      "width": "4824"
+    },
+    {
+      "file_size_bytes": "1058004",
+      "height": "4217",
+      "selected_category": "Dog",
+      "source_identifier": "commons-156387205",
+      "width": "3035"
+    },
+    {
+      "file_size_bytes": "2799766",
+      "height": "4867",
+      "selected_category": "Dog",
+      "source_identifier": "commons-156375742",
+      "width": "6067"
+    },
+    {
+      "file_size_bytes": "2057149",
+      "height": "6007",
+      "selected_category": "Dog",
+      "source_identifier": "commons-156383389",
+      "width": "4871"
+    },
+    {
+      "file_size_bytes": "1573921",
+      "height": "3061",
+      "selected_category": "Dog",
+      "source_identifier": "commons-156402692",
+      "width": "4212"
+    },
+    {
+      "file_size_bytes": "1038502",
+      "height": "3165",
+      "selected_category": "Dog",
+      "source_identifier": "commons-156361541",
+      "width": "4314"
+    },
+    {
+      "file_size_bytes": "2214478",
+      "height": "6068",
+      "selected_category": "Dog",
+      "source_identifier": "commons-156368538",
+      "width": "4885"
+    },
+    {
+      "file_size_bytes": "8031922",
+      "height": "6882",
+      "selected_category": "Dog",
+      "source_identifier": "commons-192196490",
+      "width": "4500"
+    },
+    {
+      "file_size_bytes": "1634774",
+      "height": "3603",
+      "selected_category": "Dog",
+      "source_identifier": "commons-121961234",
+      "width": "4730"
+    },
+    {
+      "file_size_bytes": "1235947",
+      "height": "3059",
+      "selected_category": "Dog",
+      "source_identifier": "commons-156377917",
+      "width": "4250"
+    },
+    {
+      "file_size_bytes": "2342545",
+      "height": "4810",
+      "selected_category": "Dog",
+      "source_identifier": "commons-156368024",
+      "width": "6055"
+    },
+    {
+      "file_size_bytes": "882958",
+      "height": "4207",
+      "selected_category": "Dog",
+      "source_identifier": "commons-156368738",
+      "width": "3039"
+    },
+    {
+      "file_size_bytes": "993409",
+      "height": "4203",
+      "selected_category": "Dog",
+      "source_identifier": "commons-156368156",
+      "width": "3038"
+    },
+    {
+      "file_size_bytes": "52160",
+      "height": "423",
+      "selected_category": "Dog",
+      "source_identifier": "commons-117168182",
+      "width": "658"
+    },
+    {
+      "file_size_bytes": "35084",
+      "height": "894",
+      "selected_category": "Dog",
+      "source_identifier": "commons-117534926",
+      "width": "600"
+    },
+    {
+      "file_size_bytes": "5117560",
+      "height": "3150",
+      "selected_category": "Cat",
+      "source_identifier": "commons-51548503",
+      "width": "2092"
+    },
+    {
+      "file_size_bytes": "2329195",
+      "height": "2369",
+      "selected_category": "Cat",
+      "source_identifier": "commons-51548508",
+      "width": "3150"
+    },
+    {
+      "file_size_bytes": "2176591",
+      "height": "3150",
+      "selected_category": "Cat",
+      "source_identifier": "commons-51548524",
+      "width": "2085"
+    },
+    {
+      "file_size_bytes": "116831",
+      "height": "719",
+      "selected_category": "Cat",
+      "source_identifier": "commons-117535620",
+      "width": "637"
+    },
+    {
+      "file_size_bytes": "801224",
+      "height": "2172",
+      "selected_category": "Cat",
+      "source_identifier": "commons-117538650",
+      "width": "2878"
+    },
+    {
+      "file_size_bytes": "1382112",
+      "height": "3050",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156378270",
+      "width": "4218"
+    },
+    {
+      "file_size_bytes": "1784343",
+      "height": "3027",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156368806",
+      "width": "4247"
+    },
+    {
+      "file_size_bytes": "1175181",
+      "height": "3036",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156391926",
+      "width": "4234"
+    },
+    {
+      "file_size_bytes": "1180578",
+      "height": "3047",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156400202",
+      "width": "4231"
+    },
+    {
+      "file_size_bytes": "1045660",
+      "height": "3049",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156398210",
+      "width": "4219"
+    },
+    {
+      "file_size_bytes": "2440539",
+      "height": "4234",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156398251",
+      "width": "3020"
+    },
+    {
+      "file_size_bytes": "1056379",
+      "height": "3059",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156361764",
+      "width": "4234"
+    },
+    {
+      "file_size_bytes": "2261725",
+      "height": "3949",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156385826",
+      "width": "5128"
+    },
+    {
+      "file_size_bytes": "1129447",
+      "height": "3047",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156398206",
+      "width": "4224"
+    },
+    {
+      "file_size_bytes": "135556",
+      "height": "731",
+      "selected_category": "Cat",
+      "source_identifier": "commons-96323341",
+      "width": "1083"
+    },
+    {
+      "file_size_bytes": "1243512",
+      "height": "3021",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156375209",
+      "width": "4212"
+    },
+    {
+      "file_size_bytes": "1608537",
+      "height": "3928",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156384436",
+      "width": "5123"
+    },
+    {
+      "file_size_bytes": "1475000",
+      "height": "3071",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156383414",
+      "width": "4259"
+    },
+    {
+      "file_size_bytes": "2115906",
+      "height": "3939",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156388838",
+      "width": "5115"
+    },
+    {
+      "file_size_bytes": "1228507",
+      "height": "3019",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156371302",
+      "width": "4205"
+    },
+    {
+      "file_size_bytes": "1099185",
+      "height": "3024",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156361514",
+      "width": "4203"
+    },
+    {
+      "file_size_bytes": "1243869",
+      "height": "3037",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156383510",
+      "width": "4211"
+    },
+    {
+      "file_size_bytes": "1144496",
+      "height": "3020",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156361497",
+      "width": "4197"
+    },
+    {
+      "file_size_bytes": "2744564",
+      "height": "4875",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156381294",
+      "width": "6075"
+    },
+    {
+      "file_size_bytes": "1971978",
+      "height": "3941",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156387486",
+      "width": "5104"
+    },
+    {
+      "file_size_bytes": "2080649",
+      "height": "3957",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156389558",
+      "width": "5187"
+    },
+    {
+      "file_size_bytes": "910876",
+      "height": "2206",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156374165",
+      "width": "2987"
+    },
+    {
+      "file_size_bytes": "1735712",
+      "height": "6029",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156367300",
+      "width": "4857"
+    },
+    {
+      "file_size_bytes": "1810747",
+      "height": "5133",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156398484",
+      "width": "3953"
+    },
+    {
+      "file_size_bytes": "2159747",
+      "height": "3966",
+      "selected_category": "Cat",
+      "source_identifier": "commons-156361742",
+      "width": "5168"
+    },
+    {
+      "file_size_bytes": "241376",
+      "height": "2385",
+      "selected_category": "Bird",
+      "source_identifier": "commons-193824310",
+      "width": "2995"
+    },
+    {
+      "file_size_bytes": "205237",
+      "height": "2351",
+      "selected_category": "Bird",
+      "source_identifier": "commons-193823702",
+      "width": "2993"
+    },
+    {
+      "file_size_bytes": "246278",
+      "height": "2366",
+      "selected_category": "Bird",
+      "source_identifier": "commons-193828970",
+      "width": "3000"
+    },
+    {
+      "file_size_bytes": "2834157",
+      "height": "2540",
+      "selected_category": "Bird",
+      "source_identifier": "commons-136505451",
+      "width": "3508"
+    },
+    {
+      "file_size_bytes": "5128292",
+      "height": "3522",
+      "selected_category": "Bird",
+      "source_identifier": "commons-151525759",
+      "width": "5478"
+    },
+    {
+      "file_size_bytes": "274124",
+      "height": "1066",
+      "selected_category": "Bird",
+      "source_identifier": "commons-46868716",
+      "width": "1280"
+    },
+    {
+      "file_size_bytes": "5554194",
+      "height": "3522",
+      "selected_category": "Bird",
+      "source_identifier": "commons-141930650",
+      "width": "5551"
+    },
+    {
+      "file_size_bytes": "8894942",
+      "height": "2480",
+      "selected_category": "Bird",
+      "source_identifier": "commons-136406729",
+      "width": "3507"
+    },
+    {
+      "file_size_bytes": "10840506",
+      "height": "3508",
+      "selected_category": "Bird",
+      "source_identifier": "commons-151525172",
+      "width": "4961"
+    },
+    {
+      "file_size_bytes": "176333",
+      "height": "2326",
+      "selected_category": "Bird",
+      "source_identifier": "commons-193814308",
+      "width": "2999"
+    },
+    {
+      "file_size_bytes": "232791",
+      "height": "2350",
+      "selected_category": "Bird",
+      "source_identifier": "commons-193826915",
+      "width": "2995"
+    },
+    {
+      "file_size_bytes": "5391393",
+      "height": "2400",
+      "selected_category": "Bird",
+      "source_identifier": "commons-96912537",
+      "width": "3000"
+    },
+    {
+      "file_size_bytes": "5415835",
+      "height": "2336",
+      "selected_category": "Bird",
+      "source_identifier": "commons-193832944",
+      "width": "3504"
+    },
+    {
+      "file_size_bytes": "224044",
+      "height": "2349",
+      "selected_category": "Bird",
+      "source_identifier": "commons-193804686",
+      "width": "2999"
+    },
+    {
+      "file_size_bytes": "274335",
+      "height": "2372",
+      "selected_category": "Bird",
+      "source_identifier": "commons-96542845",
+      "width": "2991"
+    },
+    {
+      "file_size_bytes": "272072",
+      "height": "2400",
+      "selected_category": "Bird",
+      "source_identifier": "commons-96287313",
+      "width": "2990"
+    },
+    {
+      "file_size_bytes": "3227293",
+      "height": "3150",
+      "selected_category": "Bird",
+      "source_identifier": "commons-96525772",
+      "width": "2390"
+    },
+    {
+      "file_size_bytes": "778075",
+      "height": "1050",
+      "selected_category": "Bird",
+      "source_identifier": "commons-96503491",
+      "width": "702"
+    },
+    {
+      "file_size_bytes": "2914826",
+      "height": "2448",
+      "selected_category": "Bird",
+      "source_identifier": "commons-96546599",
+      "width": "3264"
+    },
+    {
+      "file_size_bytes": "3232360",
+      "height": "2450",
+      "selected_category": "Bird",
+      "source_identifier": "commons-97009560",
+      "width": "3000"
+    },
+    {
+      "file_size_bytes": "10284884",
+      "height": "4339",
+      "selected_category": "Bird",
+      "source_identifier": "commons-96829991",
+      "width": "2847"
+    },
+    {
+      "file_size_bytes": "2183951",
+      "height": "3560",
+      "selected_category": "Bird",
+      "source_identifier": "commons-96395728",
+      "width": "2354"
+    },
+    {
+      "file_size_bytes": "321397",
+      "height": "2425",
+      "selected_category": "Bird",
+      "source_identifier": "commons-97079799",
+      "width": "2992"
+    },
+    {
+      "file_size_bytes": "235163",
+      "height": "2367",
+      "selected_category": "Bird",
+      "source_identifier": "commons-96711728",
+      "width": "2996"
+    },
+    {
+      "file_size_bytes": "258524",
+      "height": "2400",
+      "selected_category": "Bird",
+      "source_identifier": "commons-193831810",
+      "width": "3000"
+    },
+    {
+      "file_size_bytes": "152309",
+      "height": "2321",
+      "selected_category": "Bird",
+      "source_identifier": "commons-193829696",
+      "width": "2992"
+    },
+    {
+      "file_size_bytes": "259746",
+      "height": "2342",
+      "selected_category": "Bird",
+      "source_identifier": "commons-193831714",
+      "width": "2991"
+    },
+    {
+      "file_size_bytes": "199877",
+      "height": "2401",
+      "selected_category": "Bird",
+      "source_identifier": "commons-193838191",
+      "width": "2993"
+    },
+    {
+      "file_size_bytes": "276820",
+      "height": "2410",
+      "selected_category": "Bird",
+      "source_identifier": "commons-193822381",
+      "width": "3000"
+    },
+    {
+      "file_size_bytes": "308192",
+      "height": "2414",
+      "selected_category": "Bird",
+      "source_identifier": "commons-193822440",
+      "width": "2998"
+    }
+  ],
+  "duplicate_page_id_hits_per_category": {
+    "Bird": 1,
+    "Cat": 13,
+    "Dog": 1
+  },
+  "duplicate_sha1_skipped_per_category": {},
+  "explicit_non_photograph_skipped_per_category": {},
+  "image_bytes_downloaded": 0,
+  "imageinfo_present_per_category": {
+    "Bird": 149,
+    "Cat": 137,
+    "Dog": 93
+  },
+  "license_distribution": {
+    "Attribution": 5,
+    "BSD": 1,
+    "Public domain": 84
+  },
+  "license_review_status": "pending_manual_review",
+  "malformed_search_result_per_category": {},
+  "max_per_creator_per_category": 3,
+  "missing_imageinfo_per_category": {},
+  "missing_metadata_counts": {
+    "attribution_requirement_unknown": 5,
+    "creator_missing": 47,
+    "license_url_missing": 89
+  },
+  "near_duplicate_subject_skipped_per_category": {
+    "Bird": 9,
+    "Cat": 12,
+    "Dog": 10
+  },
+  "requested_categories": [
+    "Dog",
+    "Cat",
+    "Bird"
+  ],
+  "requested_per_category": 30,
+  "selected_per_category": {
+    "Bird": 30,
+    "Cat": 30,
+    "Dog": 30
+  },
+  "shortfall_per_category": {
+    "Bird": 0,
+    "Cat": 0,
+    "Dog": 0
+  },
+  "unique_records": 90,
+  "unsupported_mime_skipped_per_category": {
+    "Bird": 11
+  }
+}

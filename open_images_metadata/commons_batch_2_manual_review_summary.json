@@ -1,0 +1,44 @@
+{
+  "category_counts": {
+    "Bird": {
+      "NEEDS_LICENSE_VERIFICATION": 18
+    },
+    "Cat": {
+      "NEEDS_LICENSE_VERIFICATION": 4
+    },
+    "Dog": {
+      "NEEDS_BOTH": 23,
+      "NEEDS_LICENSE_VERIFICATION": 5
+    }
+  },
+  "classification_counts": {
+    "NEEDS_BOTH": 23,
+    "NEEDS_LICENSE_VERIFICATION": 27
+  },
+  "csv_path": "C:\\Users\\Admin\\OneDrive\\Documents\\Sketch2Vision\\open_images_metadata\\commons_batch_2_manual_review.csv",
+  "excluded_not_relevant_records": 40,
+  "generated_utc": "2026-11-01T15:26:59.734390+00:00",
+  "image_downloads": 0,
+  "interpretation": "The license-verification group includes all 27 license-only records plus the 23 NEEDS_BOTH records. The creator/attribution group contains the 23 NEEDS_BOTH records. A record may appear in both review groups but occurs only once in the CSV.",
+  "license_review_status_counts": {
+    "pending_manual_review": 50
+  },
+  "licenses_approved": 0,
+  "live_api_requests": 0,
+  "manual_review_reminders": [
+    "Do not treat a license label as approval; verify the individual Commons file page and original source terms.",
+    "Do not fill unknown creator or attribution fields by inference.",
+    "All queue records retain their original pending_manual_review status."
+  ],
+  "priority_counts": {
+    "P1": 23,
+    "P2": 27
+  },
+  "records_queued": 50,
+  "review_group_counts": {
+    "Creator and attribution verification": 23,
+    "License verification": 50
+  },
+  "source_audit": "C:\\Users\\Admin\\OneDrive\\Documents\\Sketch2Vision\\open_images_metadata\\commons_batch_2_audit.csv",
+  "source_manifest": "C:\\Users\\Admin\\OneDrive\\Documents\\Sketch2Vision\\open_images_metadata\\commons_batch_2.csv"
+}

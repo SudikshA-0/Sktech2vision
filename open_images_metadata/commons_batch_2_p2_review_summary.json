@@ -1,0 +1,72 @@
+{
+  "review_date": "2026-11-01",
+  "input_queue": "C:\\Users\\Admin\\OneDrive\\Documents\\Sketch2Vision\\open_images_metadata\\commons_batch_2_manual_review.csv",
+  "input_manifest": "C:\\Users\\Admin\\OneDrive\\Documents\\Sketch2Vision\\open_images_metadata\\commons_batch_2.csv",
+  "output_csv": "C:\\Users\\Admin\\OneDrive\\Documents\\Sketch2Vision\\open_images_metadata\\commons_batch_2_p2_review.csv",
+  "records_reviewed": 27,
+  "category_counts": {
+    "Bird": 18,
+    "Cat": 4,
+    "Dog": 5
+  },
+  "decision_counts": {
+    "LICENSE_UNVERIFIED": 1,
+    "BOTH_UNVERIFIED": 26
+  },
+  "commons_pages_exactly_inspected": [],
+  "commons_pages_not_independently_retrieved": [
+    "commons-193822381",
+    "commons-193822440",
+    "commons-193823702",
+    "commons-193828970",
+    "commons-193829696",
+    "commons-193831714",
+    "commons-193831810",
+    "commons-193838191",
+    "commons-46868716",
+    "commons-96287313",
+    "commons-96395728",
+    "commons-96546599",
+    "commons-96711728",
+    "commons-96829991",
+    "commons-97009560",
+    "commons-97079799",
+    "commons-96323341",
+    "commons-10302518",
+    "commons-117353486",
+    "commons-121961234",
+    "commons-192196490",
+    "commons-51548624"
+  ],
+  "original_source_pages_verified": 0,
+  "original_source_urls_available_in_stored_metadata": 27,
+  "source_mismatch_confirmed": 0,
+  "potential_source_or_license_conflicts": [
+    "commons-193838191: exact candidate is stored with NARA source, while a separate FWS Caspian Tern in flight page has Tandem Stills + Motion License; exact image correspondence not established, so no confirmed mismatch decision."
+  ],
+  "records_could_proceed_to_human_approval": 0,
+  "license_approvals": 0,
+  "image_downloads": 0,
+  "license_status_counts": {
+    "pending_manual_review": 27
+  },
+  "limitations": "Targeted Commons searches surfaced exact cached file-description text for five records (owl, chickadee, and three Clinton-era cat files); direct page opens for all 27 were attempted and returned inaccessible/cache/access failures. For other records the exact page remains unverified. Source catalog pages attempted for representative NARA, Flickr, FWS, USC/DPLA-style sources were not accessible or not independently retrieved. Search-result text is recorded as such and does not substitute for a verified original source page. All records remain pending_manual_review; no image downloads or approvals.",
+  "official_evidence_urls": {
+    "commons_reuse_guidance": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia/en",
+    "rights_statements_no_copyright_us": "https://rightsstatements.org/page/NoC-US/1.0/",
+    "fws_caspian_tern_in_flight": "https://www.fws.gov/media/caspian-tern-flight"
+  },
+  "next_action": "Manually retrieve each exact Commons page and linked original institutional record, confirm work-level rights and photographer/source correspondence, then document human review without changing statuses until approved by the designated reviewer.",
+  "commons_pages_content_surfaced_in_search_results": [
+    "commons-193814308",
+    "commons-96525772",
+    "commons-51548503",
+    "commons-51548508",
+    "commons-51548524"
+  ],
+  "commons_page_access_counts": {
+    "exact_page_text_surfaced_in_search_results": 5,
+    "direct_page_open_succeeded": 0,
+    "not_retrieved": 22
+  }
+}

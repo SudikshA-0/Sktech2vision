@@ -1,0 +1,83 @@
+{
+  "api_requests_including_retries": 2,
+  "creator_cap_fallbacks_per_category": {
+    "Person": 0
+  },
+  "creator_diversity_count_per_category": {
+    "Person": 3
+  },
+  "dimensions_and_file_sizes": [
+    {
+      "file_size_bytes": "60128",
+      "height": "438",
+      "selected_category": "Person",
+      "source_identifier": "commons-117190456",
+      "width": "639"
+    },
+    {
+      "file_size_bytes": "136370",
+      "height": "697",
+      "selected_category": "Person",
+      "source_identifier": "commons-117171026",
+      "width": "1130"
+    },
+    {
+      "file_size_bytes": "750173",
+      "height": "1876",
+      "selected_category": "Person",
+      "source_identifier": "commons-102945615",
+      "width": "1127"
+    },
+    {
+      "file_size_bytes": "4485105",
+      "height": "2000",
+      "selected_category": "Person",
+      "source_identifier": "commons-95411848",
+      "width": "3008"
+    },
+    {
+      "file_size_bytes": "142921",
+      "height": "930",
+      "selected_category": "Person",
+      "source_identifier": "commons-198970079",
+      "width": "770"
+    }
+  ],
+  "duplicate_page_id_hits_per_category": {},
+  "duplicate_sha1_skipped_per_category": {},
+  "explicit_non_photograph_skipped_per_category": {
+    "Person": 7
+  },
+  "image_bytes_downloaded": 0,
+  "imageinfo_present_per_category": {
+    "Person": 50
+  },
+  "license_distribution": {
+    "Public domain": 5
+  },
+  "license_review_status": "pending_manual_review",
+  "malformed_search_result_per_category": {},
+  "max_per_creator_per_category": 3,
+  "missing_imageinfo_per_category": {},
+  "missing_metadata_counts": {
+    "creator_missing": 2,
+    "license_url_missing": 5
+  },
+  "near_duplicate_subject_skipped_per_category": {
+    "Person": 5
+  },
+  "requested_categories": [
+    "Person"
+  ],
+  "requested_per_category": 5,
+  "selected_per_category": {
+    "Person": 5
+  },
+  "shortfall_per_category": {
+    "Person": 0
+  },
+  "unique_records": 5,
+  "unsupported_mime_skipped_per_category": {
+    "Person": 2
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sample_only": true,
+  "live_api_run": false,
+  "source": "Smithsonian Open Access API",
+  "api_endpoint": "https://api.si.edu/openaccess/api/v1.0/search",
+  "metadata_only": true,
+  "image_bytes_downloaded": false,
+  "license_approval_granted": false,
+  "all_review_statuses": "pending_manual_review",
+  "requested_max_per_category": 50,
+  "api_request_count": null,
+  "counts": null,
+  "categories": {
+    "Person": null,
+    "Dog": null,
+    "Cat": null,
+    "Car": null,
+    "Bicycle": null,
+    "Chair": null,
+    "Bird": null,
+    "Flower": null,
+    "Tree": null,
+    "Building": null
+  },
+  "note": "Schema/example only. No Smithsonian API request has been made and no candidate counts are represented. Run build_smithsonian_manifest.py with SMITHSONIAN_API_KEY to generate measured counts."
+}

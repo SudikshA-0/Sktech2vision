@@ -1,0 +1,149 @@
+{
+  "api_requests_including_retries": 6,
+  "dimensions_and_file_sizes": [
+    {
+      "file_size_bytes": "9816497",
+      "height": "5746",
+      "selected_category": "Dog",
+      "source_identifier": "commons-143571500",
+      "width": "3831"
+    },
+    {
+      "file_size_bytes": "5781420",
+      "height": "3928",
+      "selected_category": "Dog",
+      "source_identifier": "commons-100150893",
+      "width": "5237"
+    },
+    {
+      "file_size_bytes": "5227327",
+      "height": "3356",
+      "selected_category": "Dog",
+      "source_identifier": "commons-100150891",
+      "width": "5034"
+    },
+    {
+      "file_size_bytes": "5424769",
+      "height": "2533",
+      "selected_category": "Dog",
+      "source_identifier": "commons-73556788",
+      "width": "3312"
+    },
+    {
+      "file_size_bytes": "3139886",
+      "height": "2111",
+      "selected_category": "Dog",
+      "source_identifier": "commons-22809284",
+      "width": "2049"
+    },
+    {
+      "file_size_bytes": "13447018",
+      "height": "2383",
+      "selected_category": "Car",
+      "source_identifier": "commons-89068819",
+      "width": "5133"
+    },
+    {
+      "file_size_bytes": "6567877",
+      "height": "4856",
+      "selected_category": "Car",
+      "source_identifier": "commons-16884767",
+      "width": "6928"
+    },
+    {
+      "file_size_bytes": "5475057",
+      "height": "4856",
+      "selected_category": "Car",
+      "source_identifier": "commons-16884781",
+      "width": "6760"
+    },
+    {
+      "file_size_bytes": "1287096",
+      "height": "982",
+      "selected_category": "Car",
+      "source_identifier": "commons-1397338",
+      "width": "2100"
+    },
+    {
+      "file_size_bytes": "10304664",
+      "height": "2939",
+      "selected_category": "Car",
+      "source_identifier": "commons-65958510",
+      "width": "4407"
+    },
+    {
+      "file_size_bytes": "8667292",
+      "height": "4000",
+      "selected_category": "Flower",
+      "source_identifier": "commons-110112140",
+      "width": "4000"
+    },
+    {
+      "file_size_bytes": "10050351",
+      "height": "4000",
+      "selected_category": "Flower",
+      "source_identifier": "commons-110112141",
+      "width": "6000"
+    },
+    {
+      "file_size_bytes": "3811303",
+      "height": "4142",
+      "selected_category": "Flower",
+      "source_identifier": "commons-136721475",
+      "width": "3687"
+    },
+    {
+      "file_size_bytes": "4361756",
+      "height": "3797",
+      "selected_category": "Flower",
+      "source_identifier": "commons-4112191",
+      "width": "2848"
+    },
+    {
+      "file_size_bytes": "4369070",
+      "height": "5932",
+      "selected_category": "Flower",
+      "source_identifier": "commons-3416989",
+      "width": "4462"
+    }
+  ],
+  "duplicate_page_id_hits_per_category": {},
+  "duplicate_sha1_skipped_per_category": {},
+  "image_bytes_downloaded": 0,
+  "imageinfo_present_per_category": {
+    "Car": 5,
+    "Dog": 5,
+    "Flower": 5
+  },
+  "license_distribution": {
+    "CC BY-SA 2.5": 1,
+    "CC BY-SA 3.0": 2,
+    "CC BY-SA 4.0": 9,
+    "CC0": 1,
+    "Public domain": 2
+  },
+  "license_review_status": "pending_manual_review",
+  "malformed_search_result_per_category": {},
+  "missing_imageinfo_per_category": {},
+  "missing_metadata_counts": {
+    "license_url_missing": 2
+  },
+  "requested_categories": [
+    "Dog",
+    "Car",
+    "Flower"
+  ],
+  "requested_per_category": 5,
+  "selected_per_category": {
+    "Car": 5,
+    "Dog": 5,
+    "Flower": 5
+  },
+  "shortfall_per_category": {
+    "Car": 0,
+    "Dog": 0,
+    "Flower": 0
+  },
+  "unique_records": 15,
+  "unsupported_mime_skipped_per_category": {}
+}

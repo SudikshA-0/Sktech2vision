@@ -1,0 +1,105 @@
+{
+  "audit_created_utc": "2026-11-01T15:24:01.339923+00:00",
+  "audit_flag_counts": {
+    "attribution_requirement_unknown": 5,
+    "attribution_text_is_generic_source_link_label": 80,
+    "creator_missing_or_identity_unclear": 50,
+    "license_url_unknown_or_missing": 89,
+    "possible_related_or_near_duplicate_subject": 9,
+    "required_attribution_text_needs_adequacy_review": 1
+  },
+  "classification_counts": {
+    "NEEDS_BOTH": 23,
+    "NEEDS_CREATOR_VERIFICATION": 0,
+    "NEEDS_LICENSE_VERIFICATION": 27,
+    "NOT_RELEVANT": 40,
+    "READY_FOR_MANUAL_REVIEW": 0
+  },
+  "classification_counts_by_category": {
+    "Bird": {
+      "NEEDS_BOTH": 0,
+      "NEEDS_CREATOR_VERIFICATION": 0,
+      "NEEDS_LICENSE_VERIFICATION": 18,
+      "NOT_RELEVANT": 12,
+      "READY_FOR_MANUAL_REVIEW": 0
+    },
+    "Cat": {
+      "NEEDS_BOTH": 0,
+      "NEEDS_CREATOR_VERIFICATION": 0,
+      "NEEDS_LICENSE_VERIFICATION": 4,
+      "NOT_RELEVANT": 26,
+      "READY_FOR_MANUAL_REVIEW": 0
+    },
+    "Dog": {
+      "NEEDS_BOTH": 23,
+      "NEEDS_CREATOR_VERIFICATION": 0,
+      "NEEDS_LICENSE_VERIFICATION": 5,
+      "NOT_RELEVANT": 2,
+      "READY_FOR_MANUAL_REVIEW": 0
+    }
+  },
+  "duplicate_checks": {
+    "duplicate_commons_page_ids": 0,
+    "duplicate_nonempty_sha1": 0,
+    "duplicate_source_identifiers": 0
+  },
+  "license_review_status_counts": {
+    "pending_manual_review": 90
+  },
+  "limitations": [
+    "A direct image URL and source page were checked structurally only; no content was retrieved.",
+    "License labels are unverified statements; most records lack a license URL and remain pending.",
+    "Creator strings are copied as supplied; no missing creator or license information was inferred.",
+    "Near-duplicate notes identify metadata-level similarity only; visual comparison is still needed."
+  ],
+  "metadata_checks": {
+    "attribution_requirement_distribution": {
+      "false": 84,
+      "true": 1,
+      "unknown": 5
+    },
+    "attribution_text_quality": {
+      "generic_source_link_labels_not_credit_text": 80,
+      "required_attribution_rows_needing_adequacy_review": 1
+    },
+    "commons_page_urls_structurally_valid": 90,
+    "creator_missing_or_unclear": 50,
+    "license_labels_present_distribution": {
+      "Attribution": 5,
+      "BSD": 1,
+      "Public domain": 84
+    },
+    "license_urls_structurally_valid": 1,
+    "positive_dimensions_present": 90,
+    "positive_file_sizes_present": 90,
+    "source_urls_structurally_valid": 90,
+    "titles_present_without_encoding_replacement": 90
+  },
+  "methodology": [
+    "Offline audit of CSV metadata and embedded raw API metadata; no API requests or image downloads.",
+    "URL checks validate only syntax and expected host; URLs were not opened.",
+    "Category relevance uses recorded title, image description, search snippet, and Commons category metadata; no visual inspection was performed.",
+    "NOT_RELEVANT means the metadata explicitly conflicts with or does not substantiate the selected category; the record may still be useful for another category.",
+    "READY_FOR_MANUAL_REVIEW means metadata fields are present enough for human review only; it is not license approval.",
+    "No license was approved or rejected. Every original license_review_status value was preserved."
+  ],
+  "records_audited": 90,
+  "review_note": "Attribution text that consists of file/catalog links is flagged as source metadata, not treated as sufficient credit wording. This does not change any license status.",
+  "source_manifest": "C:/Users/Admin/OneDrive/Documents/Sketch2Vision/open_images_metadata/commons_batch_2.csv",
+  "source_summary": "C:/Users/Admin/OneDrive/Documents/Sketch2Vision/open_images_metadata/commons_batch_2.summary.json",
+  "technical_metadata_statistics": {
+    "file_size_bytes_count": 90,
+    "file_size_bytes_max": 10840506,
+    "file_size_bytes_median": 1159838.5,
+    "file_size_bytes_min": 22586,
+    "file_size_bytes_total": 157425193,
+    "height_pixels_min_max": [
+      348,
+      6882
+    ],
+    "width_pixels_min_max": [
+      576,
+      6075
+    ]
+  }
+}

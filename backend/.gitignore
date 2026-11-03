@@ -1,0 +1,34 @@
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+data/
+datasets/
+artifacts/
+
+# Keep documentation in ml/data while ignoring any local contents there.
+!ml/data/
+ml/data/*
+!ml/data/README.md
+!ml/datasets/
+
+# Generated ML data, checkpoints, and run outputs. Keep directories in Git,
+# but ignore their contents except for the tracked .gitkeep placeholders.
+ml/datasets/*
+!ml/datasets/.gitkeep
+ml/checkpoints/*
+!ml/checkpoints/.gitkeep
+ml/outputs/*
+!ml/outputs/.gitkeep

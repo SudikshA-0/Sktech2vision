@@ -1,0 +1,61 @@
+{
+  "review_date": "2026-11-01",
+  "input_queue": "C:\\Users\\Admin\\OneDrive\\Documents\\Sketch2Vision\\open_images_metadata\\commons_batch_2_manual_review.csv",
+  "output_csv": "C:\\Users\\Admin\\OneDrive\\Documents\\Sketch2Vision\\open_images_metadata\\commons_batch_2_p1_review.csv",
+  "records_reviewed": 23,
+  "review_decision_counts": {
+    "BOTH_UNVERIFIED": 23
+  },
+  "accessible_commons_pages": 2,
+  "commons_pages_only_surfaced_in_search_results": [
+    "commons-117168182"
+  ],
+  "commons_pages_inaccessible_or_not_retrieved": 21,
+  "original_source_pages_verified": 0,
+  "original_source_urls_candidate_only": 22,
+  "inaccessible_original_source_attempts": [
+    "https://dp.la/item/2b83544b4e00b7e51300a151aeb45cc1",
+    "https://digitallibrary.usc.edu/cdm/ref/collection/p15799coll65/id/13581",
+    "https://opensource.org/licenses/bsd-license.php",
+    "https://www.ohiomemory.org/cdm/ref/collection/p16007coll33/id/200164"
+  ],
+  "source_mismatches": [],
+  "records_ready_to_proceed_to_human_approval": 0,
+  "license_approvals": 0,
+  "image_downloads": 0,
+  "notes": "Documentary screening dated 2026-11-01, not legal advice or final approval. Direct page retrieval was attempted for every Commons page; 21 could not be retrieved (cache/access failure). One additional page was surfaced only in search results. Two exact Commons pages were opened and inspected. Original source pages were not independently verified; direct attempts failed for the listed URLs. Commons page claims were not treated as sufficient by themselves. All 23 remain BOTH_UNVERIFIED. Original queue and license statuses were not modified. No image bytes were downloaded.",
+  "official_reference_urls": {
+    "commons_reuse_guidance": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia/en",
+    "rights_statements_no_copyright_us": "https://rightsstatements.org/page/NoC-US/1.0/",
+    "creative_commons_by_sa_4_0_legal_code": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "creative_commons_by_sa_4_0_deed": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+  },
+  "commons_pages_inaccessible": [
+    "commons-117158402",
+    "commons-117168182",
+    "commons-117247382",
+    "commons-117402099",
+    "commons-117508204",
+    "commons-117514623",
+    "commons-117534926",
+    "commons-156361541",
+    "commons-156368024",
+    "commons-156368156",
+    "commons-156368538",
+    "commons-156368738",
+    "commons-156375742",
+    "commons-156377917",
+    "commons-156383389",
+    "commons-156387205",
+    "commons-156402692",
+    "commons-159235228",
+    "commons-160140109",
+    "commons-161580036",
+    "commons-2960034"
+  ],
+  "commons_pages_opened_and_inspected": [
+    "commons-156367243",
+    "commons-30849482"
+  ],
+  "inaccessible_commons_page_count": 21
+}
